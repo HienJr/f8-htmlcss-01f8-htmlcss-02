@@ -608,7 +608,7 @@ a {
 .blog .list {
     margin-top: 55px;
     display: flex;
-    justify-content: space-between;
+    gap: 30px;
 }
 
 .blog .item:hover {
